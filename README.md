@@ -3,11 +3,8 @@
 
 - 🌱 个人博客：<a href="http://www.qgchun.icu/" target="_blank">『 小曲de博客 』</a>
 - 😺 CSDN：<a href="https://blog.csdn.net/weixin_54040016" target="_blank">『 Qgchun. 』</a>
-- 💬 项目：<a href="https://github.com/Qgchun/-Qgchunapi" target="_blank">API接口调用平台</a> | <a href="https://github.com/Qgchun/ElegantNiche-Review-System" target="_blank">不小众网名点评系统</a> 
+- 💬 项目：<a href="https://github.com/Qgchun/Qgchun-API" target="_blank">API接口调用平台</a> | <a href="https://github.com/Qgchun/ElegantNiche-Review-System" target="_blank">不小众网名点评系统</a>
 
-<br/>
-<br/>
-<br/>
 - ### 🏫 Third-year CS student at Changchun University of Technology
 - ### ⛹️‍♀️ Technology: SSM、SpringBoot、MySQL、Redis、RabbitMQ、Dubbo...
 - ### 🔮 Programming languages: Java, C
