@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xiaxinyuuu&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&lines=Hi+there+%F0%9F%91%8B;I'm+Qgchun)](https://git.io/typing-svg)
 <!--
 **Qgchun/Qgchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
