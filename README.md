@@ -6,6 +6,6 @@
 - 💬 项目：<a href="https://github.com/Qgchun/Qgchun-API" target="_blank">API接口调用平台</a> | <a href="https://github.com/Qgchun/ElegantNiche-Review-System" target="_blank">不小众网名点评系统</a>
 
 - ### 🏫 Third-year CS student at Changchun University of Technology
-- ### ⛹️‍♀️ Technology: SSM、SpringBoot、MySQL、Redis、RabbitMQ、Dubbo...
+- ### ⛹️‍♀️ Technology: SSM，SpringBoot，MySQL，Redis，RabbitMQ，Dubbo...
 - ### 🔮 Programming languages: Java, C
 
